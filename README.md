@@ -4,7 +4,7 @@
 ### How to run:
 1- Upload the data to Google Drive, making sure it's in the "My Drive" section and that it's in the same form that was sent with the challenge. <br>
 2- Upload and run notebooks in Google Colab and make sure that the paths of the data files match those in the code. <br>
-3- The CSV and JSON files generated will appear on Google Drive in the path specified in the code  <br>
+3- The CSV and JSON files generated will appear on Google Drive in the path specified in the code.  <br>
 
 ## Problem one:
 - The problem was solved by first creating a new folder in the same directory as the data and copying all the images to it.
